@@ -1,6 +1,6 @@
 # **Olá, Seja bem vindo ao meu perfil** :smile:
 
-Sou estudante de Engenharia da Computação pelo [Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus Fortaleza](https://ifce.edu.br/fortaleza), atualmente no 9° semestre. Sou apaixonado por técnologia e conheço linguagens como python, C e Dart. Atualmente estou aprofundando os conhecimento em Flutter e estou em busca da minha primeira oportunidade como desenvolvedor.
+Sou estudante de Engenharia da Computação pelo [Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus Fortaleza](https://ifce.edu.br/fortaleza), atualmente no 10° semestre. Sou apaixonado por técnologia e conheço linguagens como python, C e Dart. Desenvolvi alguns projetos usando o Framework Flutter, como por exemplo um App que consome uma API de filmes da Marvel. Atualmente estou participando de um curso de formação acelerada em python com foco em ciências de dados através do [Alpha Edtech](https://www.alphaedtech.org.br/), um projeto criado através do [Instituto Alpha Lumen](https://www.alphalumen.org.br/).
 
 ## Conecte-se Comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/rubensfreitas65/)
